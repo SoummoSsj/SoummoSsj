@@ -1,4 +1,5 @@
 <!-- Banner image can be added here -->
+![Profile Views](https://komarev.com/ghpvc/?username=SoummoSsj)
 
 # Hi 👋, I'm Soummo
 
